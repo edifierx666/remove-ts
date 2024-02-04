@@ -1,3 +1,5 @@
+# 删除vue项目里的ts及vue文件里的script ts
+
 ### clone本项目
 ### 修改index.js 
 ```angular2html
